@@ -4,7 +4,7 @@
 # See RTD installation instructions http://read-the-docs.readthedocs.io/en/latest/install.html 
 ##############################################################################################
 
-FROM python:2
+FROM continuumio/anaconda
 
 MAINTAINER Will Barnes
 
